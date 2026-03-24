@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prakt14_Gladishev</string>
+    <string name="Profile">Профиль пользователя</string>
+    <string name="Acess">Вход не выполнен</string>
+    <string name="Vhod">Войти</string>
+    <string name="Registration">Регистрация</string>
+</resources>
